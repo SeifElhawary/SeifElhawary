@@ -4,16 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/SeifElhawary">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Seif+🚀;Full-Stack+Web+Developer;BIS+Student+%40+Helwan+University;Crafting+Clean+Layout+Animations!" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Seif+🚀;Full-Stack+Web+Developer;BIS+Student+@+Helwan+University;Crafting+Clean+Layout+Animations!" alt="Typing Effect" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SeifElhawary&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://my-readme-status.vercel.app/api?theme=tokyonight" alt="Status GIF equivalent" width="300px"/>
 </p>
 
 ---
