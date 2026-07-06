@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there! I'm Seif 🚀</h1>
-<h3 align="center" align="center">Full-Stack Web Developer & BIS Student</h3>
+<h3 align="center">Full-Stack Web Developer & BIS Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SeifElhawary&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
@@ -40,8 +40,7 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifElhawary&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifElhawary&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1eWN4ZndpZWh3N2R4Zmxidm14OHZidXNwaHpxbTZ0N3FwZXN6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60%" alt="Coding Animation" />
 </p>
 
 <p align="center">
