@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.github.io/page/render?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Space&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cDE4d2N5M214cXpwd3B5dG95d3F5NzJ5M3E1dW55OHR5amx5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss04Nh9g1flK76gP9/giphy.gif" width="100%" alt="Developer Banner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/SeifElhawary">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Seif+🚀;Full-Stack+Web+Developer;BIS+Student+@+Helwan+University;Crafting+Clean+Layout+Animations!" alt="Typing Effect" />
-  </a>
-</p>
+<h1 align="center">Hey there! I'm Seif 🚀</h1>
+<h3 align="center">Full-Stack Web Developer & BIS Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SeifElhawary&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
@@ -66,10 +63,4 @@ I am a passionate Web Developer focused on building interactive, high-performanc
   <a href="mailto:Saifhaytham800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
