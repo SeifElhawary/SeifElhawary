@@ -52,7 +52,7 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seif-haitham-78733a37a/" target="_blank">
+  <a href="https://www.linkedin.com/in/seif-haytham-78733a37a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Saifhaytham800@gmail.com">
