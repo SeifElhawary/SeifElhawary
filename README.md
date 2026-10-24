@@ -17,9 +17,13 @@
 
 ### 👤 About Me
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN0dndqOWV6ZWR3bzN3a20yNHFxdWp5dnJubW05Ymx3dmRsdXptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iSDWIUX6/giphy.gif" width="320" alt="Coding GIF" />
+</div>
+
 I am a passionate Web Developer focused on building interactive, high-performance web applications. Combining my studies in Business Information Systems (BIS) with modern tech stacks, I love creating smart and efficient solutions.
 
-- 🔭 **Current Focus:** Elevating my frontend skills, developing my personal portfolio, and mastering advanced web layouts & GSAP animations.
+- 🔭 **Current Focus:** Elevating my frontend skills, mastering advanced web layouts, and crafting smooth GSAP animations.
 - 📚 **Next Milestones:** Diving deep into MERN Stack (**MongoDB, Express.js, React, Node.js**) & exploring Full-Stack Architecture.
 - 🤖 **Future Vision:** Bridging the gap between Web Development and **Data Analytics & AI**.
 - ⚡ **Fun Fact:** Huge gaming enthusiast (Valorant player) & I love crafting clean layout animations on the web!
@@ -28,35 +32,21 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,postman,figma" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZqYTN0Y3V5ZHF4ZjNqOWR4ZnM4ZjNqOWR4ZnM4ZjNqOWR4ZnMmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="70%" alt="Hacker Vibe GIF" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 GitHub Trophies
 
-<div align="center">
-
-| Project | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **🎬 SCREENBOX** | Responsive movie & TV series web application | HTML, CSS, JavaScript, TMDB API | [🔗 Live Demo](https://vercel.com) |
-| **🛒 ELHAWARY** | E-commerce web application for electronics | HTML, CSS, JavaScript, Swiper | [🔗 Live Demo](https://vercel.com) |
-| **✨ StarLight** | Web3 NFT landing page web application | HTML, CSS, Splide.js | [🔗 Live Demo](https://vercel.com) |
-| **🌍 SkyGo** | Custom travel platform & booking landing page | HTML, CSS, JavaScript | [🔗 Live Demo](https://vercel.com) |
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SeifElhawary&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -83,11 +73,15 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/seif-haytham-elhawary-78733a37a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Saifhaytham800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFjczRjcWhwcDZ1cHNmb2c3dXZhZjAzbjZ1MWVwY3NucjNyNW5jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jQrO94yTh0CLy0/giphy.gif" width="100%" alt="Footer GIF" />
 </p>
