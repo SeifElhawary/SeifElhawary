@@ -10,11 +10,11 @@
 <h3 align="center">Full-Stack Web Developer & BIS Student @ Helwan University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+%26+Full-Stack+Developer;React+%26+Tailwind+CSS+Expert;Data+Analytics+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Front-End+%26+Full-Stack+Developer;React+%26+Tailwind+CSS+Expert;Data+Analytics+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeifElhawary&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=SeifElhawary&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -42,10 +42,10 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 
 ---
 
-### 🏆 GitHub Trophies
+### 💻 Code & Matrix Vibe
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeifElhawary&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dark" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="80%" alt="Matrix Code Animation" />
 </p>
 
 ---
@@ -57,16 +57,16 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifElhawary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifElhawary&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeifElhawary&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifElhawary&layout=compact&theme=synthwave&hide_border=true" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifElhawary&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifElhawary&theme=synthwave&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeifElhawary&theme=react-dark&hide_border=true&area=true&color=38BDF8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeifElhawary&theme=synthwave&hide_border=true&area=true&color=ff79c6" width="100%" />
 </p>
 
 ---
@@ -83,10 +83,10 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seif-haytham-elhawary-78733a37a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF79C6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Saifhaytham800@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF5555?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
