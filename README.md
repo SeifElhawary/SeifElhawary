@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cDE4d2N5M214cXpwd3B5dG95d3F5NzJ5M3E1dW55OHR5amx5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss04Nh9g1flK76gP9/giphy.gif" width="100%" alt="Developer Banner" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN0dndqOWV6ZWR3bzN3a20yNHFxdWp5dnJubW05Ymx3dmRsdXptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iSDWIUX6/giphy.gif" width="160" style="border-radius: 50%;" alt="Seif Profile Avatar" />
+</div>
+
 <h1 align="center">Hey there! I'm Seif 🚀</h1>
 <h3 align="center">Full-Stack Web Developer & BIS Student @ Helwan University</h3>
 
@@ -16,10 +20,6 @@
 ---
 
 ### 👤 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN0dndqOWV6ZWR3bzN3a20yNHFxdWp5dnJubW05Ymx3dmRsdXptdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iSDWIUX6/giphy.gif" width="320" alt="Coding GIF" />
-</div>
 
 I am a passionate Web Developer focused on building interactive, high-performance web applications. Combining my studies in Business Information Systems (BIS) with modern tech stacks, I love creating smart and efficient solutions.
 
@@ -67,6 +67,14 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeifElhawary&theme=react-dark&hide_border=true&area=true&color=38BDF8" width="100%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SeifElhawary/SeifElhawary/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
