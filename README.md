@@ -45,7 +45,7 @@ I am a passionate Web Developer focused on building interactive, high-performanc
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeifElhawary&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SeifElhawary&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dark" alt="GitHub Trophies" />
 </p>
 
 ---
