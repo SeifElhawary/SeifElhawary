@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">Hey there! I'm Seif 🚀</h1>
-<h3 align="center">Full-Stack Web Developer & BIS Student</h3>
+<h3 align="center">Full-Stack Web Developer & BIS Student @ Helwan University</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Front-End+%26+Full-Stack+Developer;React+%26+Tailwind+CSS+Expert;Data+Analytics+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SeifElhawary&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
@@ -15,10 +19,10 @@
 
 I am a passionate Web Developer focused on building interactive, high-performance web applications. Combining my studies in Business Information Systems (BIS) with modern tech stacks, I love creating smart and efficient solutions.
 
-- 🔭 **Current Focus:** Elevating my frontend skills, developing my personal portfolio, and mastering advanced web layouts.
-- 📚 **Next Milestones:** Diving deep into MERN Stack (**MongoDB, Express.js, React, Node.js**) & exploring the decentralized web with **Web3**.
-- 🤖 **Future Vision:** Bridging the gap between Web Development and **Artificial Intelligence (AI)**.
-- ⚡ **Fun Fact:** Huge gaming enthusiast and I love crafting clean layout animations & counters on the web.
+- 🔭 **Current Focus:** Elevating my frontend skills, developing my personal portfolio, and mastering advanced web layouts & GSAP animations.
+- 📚 **Next Milestones:** Diving deep into MERN Stack (**MongoDB, Express.js, React, Node.js**) & exploring Full-Stack Architecture.
+- 🤖 **Future Vision:** Bridging the gap between Web Development and **Data Analytics & AI**.
+- ⚡ **Fun Fact:** Huge gaming enthusiast (Valorant player) & I love crafting clean layout animations on the web!
 
 ---
 
@@ -31,21 +35,48 @@ I am a passionate Web Developer focused on building interactive, high-performanc
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **🎬 SCREENBOX** | Responsive movie & TV series web application | HTML, CSS, JavaScript, TMDB API | [🔗 Live Demo](https://vercel.com) |
+| **🛒 ELHAWARY** | E-commerce web application for electronics | HTML, CSS, JavaScript, Swiper | [🔗 Live Demo](https://vercel.com) |
+| **✨ StarLight** | Web3 NFT landing page web application | HTML, CSS, Splide.js | [🔗 Live Demo](https://vercel.com) |
+| **🌍 SkyGo** | Custom travel platform & booking landing page | HTML, CSS, JavaScript | [🔗 Live Demo](https://vercel.com) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1eWN4ZndpZWh3N2R4Zmxidm14OHZidXNwaHpxbTZ0N3FwZXN6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="60%" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1eWN4ZndpZWh3N2R4Zmxidm14OHZidXNwaHpxbTZ0N3FwZXN6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="50%" alt="Coding Animation" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeifElhawary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifElhawary&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifElhawary&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeifElhawary&theme=react-dark&hide_border=true&area=true&color=38BDF8" width="100%" />
 </p>
 
 ---
